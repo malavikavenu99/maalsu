@@ -1,0 +1,7 @@
+{
+  "name": "IEEE Event Leaderboard Pro",
+  "description": "A secure, professional leaderboard system for IEEE events featuring admin management, group-specific dashboards, and real-time score tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
